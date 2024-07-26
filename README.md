@@ -1,4 +1,4 @@
-# Snake Game
+🐍# Snake Game
 
 This project is a simple implementation of the classic Snake game using HTML, CSS, and JavaScript. The game allows users to control a snake using keyboard arrows, with the objective of eating fruits to grow longer and achieve higher scores.
 
